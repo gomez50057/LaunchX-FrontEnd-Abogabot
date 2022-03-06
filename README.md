@@ -1,6 +1,6 @@
 # LaunchX-FrontEnd-Mission
 
-## Semana 1:
+## Semana 1🚀:
 
 1. [Requerimientos](Practicas/Reqierimientos.pdf)
 2. [Buyer Persona](Practicas/Practica%20Buyer%20Persona.pdf)
