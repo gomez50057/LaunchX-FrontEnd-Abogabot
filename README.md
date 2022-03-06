@@ -2,8 +2,8 @@
 
 ## Semana 1:
 
-1. [Requerimientos](Practicas/Requerimientos.pdf)
+1. [Requerimientos](Practicas/Reqierimientos.pdf)
 2. [Buyer Persona](Practicas/Practica%20Buyer%20Persona.pdf)
-3. [Publico objetivo](Practicas/Pubicoobjetivo.pdf)
-4. [Wireframe Ux](Practicas/WireframeUX.pdf)
-5. [Wireframe UI](Practicas/WireframeUI.pdf) 
+3. [Publico objetivo](Practicas/Pubico%20objetivo.pdf)
+4. [Wireframe Ux](Practicas/Wireframe%20UX.pdf)
+5. [Wireframe UI](Practicas/Wireframe%20UI.pdf) 
